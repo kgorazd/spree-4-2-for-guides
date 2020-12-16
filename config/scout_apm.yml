@@ -1,5 +1,5 @@
 common: &defaults
-  name: spark-starter-kit
+  name: spree-4-2-for-guides
   key: <%= ENV['SCOUT_KEY'] %>
   monitor: true
 
