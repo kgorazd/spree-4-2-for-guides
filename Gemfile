@@ -106,7 +106,7 @@ gem 'i18n-js', '>= 3.0.0.rc11'
 # Spree gems
 gem 'spree', git: 'https://github.com/spree/spree'
 gem 'spree_gateway', '~> 3.7'
-gem 'spree_auth_devise', '~> 4.1'
+gem 'spree_auth_devise', '~> 4.2'
 gem 'spree_analytics_trackers'
 
 # Sentry Client
